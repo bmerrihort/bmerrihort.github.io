@@ -1,0 +1,14 @@
+{
+    "levels": [
+        { "name": "Level 1", "description": "Morning Wee", "finishBy": { "hours": 7, "minutes": 20 } },
+            { "name": "Level 2", "description": "Breakfast", "finishBy": { "hours": 7, "minutes": 40} },
+            { "name": "Level 3", "description": "Get Toothbrush\nReady", "finishBy": { "hours": 7, "minutes": 45} },
+            { "name": "Pause", "description": "Brush Teeth &\nWash Face", "fixedTimeSeconds": 150, "fixedReward": 100 },
+            { "name": "Level 4", "description": "Get Dressed", "finishBy": { "hours": 8, "minutes": 0} },
+            { "name": "Level 5", "description": "Start Sit", "finishBy": { "hours": 8, "minutes": 3} },
+            { "name": "Pause", "description": "Sit", "fixedTimeSeconds": 720, "fixedReward": 500 },
+            { "name": "Pause", "description": "Wipe &\nWash Hands", "fixedTimeSeconds": 120, "fixedReward": 100 },
+            { "name": "Level 6", "description": "Shoes and Coat", "finishBy": { "hours": 8, "minutes": 25} },
+            { "name": "Finished", "description": "Have a great day!", "finishBy": { "hours": 7, "minutes": 0} }
+    ]
+}
