@@ -1,0 +1,9 @@
+{
+    "name": "Laura's Weekday\nMorning Adventure",
+    "defaultCharacter": "cute_girl",
+    "levels": [
+        { "name": "Level 1", "description": "Brush Teeth &\nWash Face", "finishBy": { "hours": 23, "minutes": 30 }},
+        { "name": "Level 2", "description": "Brush Teeth &\nWash Face", "fixedTime": { "seconds": 15, "reward": 100 }},
+        { "name": "Level 3", "description": "Brush Teeth &\nWash Face", "finishBy": { "hours": 23, "minutes": 35 }}
+    ]
+}
