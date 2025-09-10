@@ -10,7 +10,6 @@
         { "name": "Level 6", "description": "Start Sit", "finishBy": { "hours": 7, "minutes": 50} },
         { "name": "Level 7", "description": "Sit", "fixedTime": { "seconds": 720, "reward": 500 }},
         { "name": "Level 8", "description": "Wipe &\nWash Hands", "fixedTime": { "seconds": 120, "reward": 100 }},
-        { "name": "Level 9", "description": "Shoes and Coat", "finishBy": { "hours": 8, "minutes": 12} },
-        { "name": "Finished", "description": "Have a great day!", "finishBy": { "hours": 7, "minutes": 0} }
+        { "name": "Level 9", "description": "Shoes and Coat", "finishBy": { "hours": 8, "minutes": 12} }
     ]
 }
