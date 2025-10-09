@@ -1,0 +1,13 @@
+{
+    "name": "Laura's Weekday\nMorning Adventure",
+    "defaultCharacter": "cute_girl",
+    "levels": [
+        { "name": "Level 1", "description": "Morning Wee", "finishBy": { "hours": 7, "minutes": 20 } },
+        { "name": "Level 2", "description": "Breakfast", "finishBy": { "hours": 7, "minutes": 50} },
+        { "name": "Level 3", "description": "Get Toothbrush\nReady", "finishBy": { "hours": 7, "minutes": 55} },
+        { "name": "Level 4", "description": "Brush Teeth &\nWash Face", "fixedTime": { "seconds": 150, "reward": 200 }},
+        { "name": "Level 5", "description": "Get Dressed", "finishBy": { "hours": 8, "minutes": 8} },
+        { "name": "Level 6", "description": "Hair", "finishBy": { "hours": 8, "minutes": 13} },
+        { "name": "Level 7", "description": "Shoes and Coat", "finishBy": { "hours": 8, "minutes": 22} }
+    ]
+}
