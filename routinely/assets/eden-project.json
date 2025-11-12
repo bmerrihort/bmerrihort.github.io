@@ -2,12 +2,12 @@
     "name": "Andrew's Eden\nProject Adventure",
     "defaultCharacter": "smart_boy_red",
     "levels": [
-        { "name": "Level 1", "description": "Morning Wee", "finishBy": { "hours": 6, "minutes": 15 } },
-        { "name": "Level 2", "description": "Breakfast", "finishBy": { "hours": 6, "minutes": 25} },
-        { "name": "Level 3", "description": "Get Toothbrush\nReady", "finishBy": { "hours": 6, "minutes": 40} },
+        { "name": "Level 1", "description": "Morning Wee", "finishBy": { "hours": 6, "minutes": 28 } },
+        { "name": "Level 2", "description": "Breakfast", "finishBy": { "hours": 6, "minutes": 45} },
+        { "name": "Level 3", "description": "Get Toothbrush\nReady", "finishBy": { "hours": 6, "minutes": 48} },
         { "name": "Level 4", "description": "Brush Teeth &\nWash Face", "fixedTime": { "seconds": 150, "reward": 100 }},
-        { "name": "Level 5", "description": "Get Dressed", "finishBy": { "hours": 6, "minutes": 53} },
-        { "name": "Level 6", "description": "Start Sit", "finishBy": { "hours": 6, "minutes": 55} },
+        { "name": "Level 5", "description": "Get Dressed", "finishBy": { "hours": 6, "minutes": 58} },
+        { "name": "Level 6", "description": "Start Sit", "finishBy": { "hours": 6, "minutes": 59} },
         { "name": "Level 7", "description": "Sit", "fixedTime": { "seconds": 720, "reward": 500 }},
         { "name": "Level 8", "description": "Wipe &\nWash Hands", "fixedTime": { "seconds": 120, "reward": 100 }},
         { "name": "Level 9", "description": "Shoes and Coat", "finishBy": { "hours": 7, "minutes": 17} }
